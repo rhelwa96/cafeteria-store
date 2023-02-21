@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+  .w-50 {
+    width: 100% !important;
+  }
+}
+
+:where(.css-dev-only-do-not-override-26rdvq).ant-col-offset-8 {
+  margin-inline-start: 0 !important;
+}
